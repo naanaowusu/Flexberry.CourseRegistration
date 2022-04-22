@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Course_Registration",
+  "className": "tGenderType",
+  "enumObjects": {
+    "Male": "Male",
+    "Female": "Female"
+  }
+}

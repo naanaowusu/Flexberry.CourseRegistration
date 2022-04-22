@@ -1,0 +1,14 @@
+﻿{
+  "nameSpace": "IIS.Course_Registration",
+  "className": "tCourseType",
+  "enumObjects": {
+    "Financial": "Finance",
+    "Mathematics": "Elective Mathematics",
+    "Information": "Business Analytics",
+    "Buisness": "Management Studies",
+    "Theology": "Theology",
+    "Philosophy": "Philosophy Studies",
+    "Web": "Web Development",
+    "Law": "Law"
+  }
+}

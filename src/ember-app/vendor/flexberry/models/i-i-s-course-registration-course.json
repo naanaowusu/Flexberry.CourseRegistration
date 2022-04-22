@@ -1,0 +1,63 @@
+﻿{
+  "name": "IISCourse_RegistrationCourse",
+  "modelName": "i-i-s-course-registration-course",
+  "className": "Course",
+  "nameSpace": "IIS.Course_Registration",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "courseType",
+      "type": "i-i-s-course-registration-t-course-type",
+      "flexberryType": "tCourseType",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "CourseE",
+      "modelName": "i-i-s-course-registration-course",
+      "attrs": [
+        {
+          "name": "courseType",
+          "caption": "Course type",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "CourseL",
+      "modelName": "i-i-s-course-registration-course",
+      "attrs": [
+        {
+          "name": "courseType",
+          "caption": "Course type",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

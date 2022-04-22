@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-course-registration-course-e",
+  "editForm": "i-i-s-course-registration-course-e",
+  "external": false,
+  "caption": "Course",
+  "name": "IISCourse_RegistrationCourseL",
+  "className": "CourseL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-course-registration-course",
+      "modelProjection": "CourseL"
+    }
+  ]
+}
