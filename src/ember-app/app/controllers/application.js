@@ -25,14 +25,16 @@ export default Controller.extend({
           caption: i18n.t('forms.application.sitemap.course-registration.caption'),
           title: i18n.t('forms.application.sitemap.course-registration.title'),
           children: [{
-            link: null,
-            caption: i18n.t('forms.application.sitemap.course-registration.students.caption'),
-            title: i18n.t('forms.application.sitemap.course-registration.students.title'),
+            link: 'i-i-s-course-registration-students-l',
+            caption: i18n.t('forms.application.sitemap.course-registration.i-i-s-course-registration-students-l.caption'),
+            title: i18n.t('forms.application.sitemap.course-registration.i-i-s-course-registration-students-l.title'),
+            icon: 'file',
             children: null
           }, {
-            link: null,
-            caption: i18n.t('forms.application.sitemap.course-registration.course.caption'),
-            title: i18n.t('forms.application.sitemap.course-registration.course.title'),
+            link: 'i-i-s-course-registration-course-l',
+            caption: i18n.t('forms.application.sitemap.course-registration.i-i-s-course-registration-course-l.caption'),
+            title: i18n.t('forms.application.sitemap.course-registration.i-i-s-course-registration-course-l.title'),
+            icon: 'folder open',
             children: null
           }]
         }

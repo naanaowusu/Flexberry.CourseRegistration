@@ -2,7 +2,7 @@
   "nameSpace": "IIS.Course_Registration",
   "className": "tCourseType",
   "enumObjects": {
-    "Financial": "Finance",
+    "Financial": "Finance and credit",
     "Mathematics": "Elective Mathematics",
     "Information": "Business Analytics",
     "Buisness": "Management Studies",

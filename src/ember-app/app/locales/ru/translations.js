@@ -83,6 +83,14 @@ $.extend(true, translations, {
         'course-registration': {
           caption: 'Course Registration',
           title: 'Course Registration',
+          'i-i-s-course-registration-students-l': {
+            caption: 'Student',
+            title: 'Students'
+          },
+          'i-i-s-course-registration-course-l': {
+            caption: 'Course ',
+            title: 'Course'
+          },
           students: {
             caption: 'Students',
             title: 'Students'

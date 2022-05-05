@@ -5,20 +5,20 @@
     {
       "link": null,
       "menuName": "course-registration",
-      "caption": "CourseRegistration",
-      "title": "CourseRegistration",
+      "caption": "Course Registration",
+      "title": "Course Registration",
       "children": [
         {
-          "link": null,
-          "menuName": "students",
-          "caption": "Students",
+          "link": "i-i-s-course-registration-students-l",
+          "menuName": null,
+          "caption": "Student",
           "title": "Students",
           "children": null
         },
         {
-          "link": null,
-          "menuName": "course",
-          "caption": "Course",
+          "link": "i-i-s-course-registration-course-l",
+          "menuName": null,
+          "caption": "Course ",
           "title": "Course",
           "children": null
         }

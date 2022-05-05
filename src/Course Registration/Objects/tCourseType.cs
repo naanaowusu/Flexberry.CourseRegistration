@@ -32,7 +32,7 @@ namespace IIS.Course_Registration
         // *** Start programmer edit section *** (tCourseType.Financial CustomAttributes)
 
         // *** End programmer edit section *** (tCourseType.Financial CustomAttributes)
-        [Caption("Finance")]
+        [Caption("Finance and credit")]
         Financial,
         
         // *** Start programmer edit section *** (tCourseType.Mathematics CustomAttributes)
